@@ -14,7 +14,11 @@
     "skipLibCheck": true,
     "skipDefaultLibCheck": true,
     "baseUrl": ".",
-    "paths": {}
+    "paths": {
+      "@let-it-roll/let-it-roll-shared": [
+        "libs/let-it-roll-shared/src/index.ts"
+      ]
+    }
   },
   "exclude": ["node_modules", "tmp"]
 }

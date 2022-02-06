@@ -1,5 +1,5 @@
 module.exports = {
-  displayName: 'ac-test',
+  displayName: 'let-it-roll-server',
   preset: '../../jest.preset.js',
   globals: {
     'ts-jest': {
@@ -11,5 +11,5 @@ module.exports = {
     '^.+\\.[tj]s$': 'ts-jest',
   },
   moduleFileExtensions: ['ts', 'js', 'html'],
-  coverageDirectory: '../../coverage/apps/ac-test',
+  coverageDirectory: '../../coverage/apps/let-it-roll-server',
 };

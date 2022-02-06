@@ -1,6 +1,7 @@
 {
   "version": 2,
   "projects": {
-    "ac-test": "apps/ac-test"
+    "let-it-roll-server": "apps/let-it-roll-server",
+    "let-it-roll-shared": "libs/let-it-roll-shared"
   }
 }

@@ -5,8 +5,7 @@
   "scripts": {
     "start": "nx serve",
     "build": "nx build",
-    "buildServer": "nx build let-it-roll-server",
-    "test": "nx test"
+    "buildServer": "nx build let-it-roll-server"
   },
   "private": true,
   "dependencies": {
